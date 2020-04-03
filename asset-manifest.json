@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/putshong/movie_app_2020/static/css/main.cca5437f.chunk.css",
+    "main.js": "/putshong/movie_app_2020/static/js/main.3f7b48da.chunk.js",
+    "main.js.map": "/putshong/movie_app_2020/static/js/main.3f7b48da.chunk.js.map",
+    "runtime-main.js": "/putshong/movie_app_2020/static/js/runtime-main.f888ea4e.js",
+    "runtime-main.js.map": "/putshong/movie_app_2020/static/js/runtime-main.f888ea4e.js.map",
+    "static/js/2.c9fd2d69.chunk.js": "/putshong/movie_app_2020/static/js/2.c9fd2d69.chunk.js",
+    "static/js/2.c9fd2d69.chunk.js.map": "/putshong/movie_app_2020/static/js/2.c9fd2d69.chunk.js.map",
+    "index.html": "/putshong/movie_app_2020/index.html",
+    "precache-manifest.4ff563e628c7fe028e7da0778bda54e0.js": "/putshong/movie_app_2020/precache-manifest.4ff563e628c7fe028e7da0778bda54e0.js",
+    "service-worker.js": "/putshong/movie_app_2020/service-worker.js",
+    "static/css/main.cca5437f.chunk.css.map": "/putshong/movie_app_2020/static/css/main.cca5437f.chunk.css.map",
+    "static/js/2.c9fd2d69.chunk.js.LICENSE.txt": "/putshong/movie_app_2020/static/js/2.c9fd2d69.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f888ea4e.js",
+    "static/js/2.c9fd2d69.chunk.js",
+    "static/css/main.cca5437f.chunk.css",
+    "static/js/main.3f7b48da.chunk.js"
+  ]
+}
